@@ -1,0 +1,6 @@
+VPS is virtual private server.
+FTP is file transfer protocol.
+
+
+LAMP is linux, Apache, MySQL, PHP.
+
